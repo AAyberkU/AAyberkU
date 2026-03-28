@@ -34,13 +34,6 @@ I study Molecular Biology and Genetics at Middle East Technical University, and 
 - Linux and server-side tooling for multi-user and research-oriented environments
 - Bioinformatics work in Python and R during my internship at Bilkent University
 
-## Current Focus Areas
-
-- Building games and gameplay systems in Unity
-- Learning more about multiplayer and networking systems
-- Improving Linux, infrastructure, and deployment skills
-- Exploring practical AI systems and workflows
-
 ## Links
 
 - Portfolio: https://ayberkuzun.dev
